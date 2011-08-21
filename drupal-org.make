@@ -6,8 +6,8 @@ includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.
 
 ; Build Kit overrides
 
-project[rubik][subdir] = contrib
-project[tao][subdir] = contrib
+projects[rubik][subdir] = contrib
+projects[tao][subdir] = contrib
 
 ; Additional Contrib
 
