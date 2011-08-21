@@ -1,0 +1,31 @@
+name = Touchdown
+core = 7.x
+description = The landing page distribution
+
+; Core
+dependencies[] = book
+dependencies[] = contact
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+dependencies[] = admin
+dependencies[] = boxes
+dependencies[] = openid
+dependencies[] = openidadmin
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = features
+dependencies[] = strongarm
+dependencies[] = views
+dependencies[] = views_ui
+
+; Features
+dependencies[] = touchdown_core
